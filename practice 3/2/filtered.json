@@ -1,0 +1,25 @@
+[
+  {
+    "data_id": "62924",
+    "name": "6.4\" Acer 192GB",
+    "price": 499951,
+    "bonus": 4999,
+    "processor": "2x3.6 ГГц",
+    "ram": 13,
+    "sim": 3,
+    "matrix": "OLED",
+    "camera": 29,
+    "acc": 6956
+  },
+  {
+    "data_id": "81992",
+    "name": "5.3\" Samsung S21 112GB",
+    "price": 499967,
+    "bonus": 4999,
+    "processor": "2x3.9 ГГц",
+    "ram": 11,
+    "sim": 2,
+    "matrix": "OLED",
+    "camera": 44
+  }
+]
