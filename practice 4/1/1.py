@@ -50,11 +50,11 @@ def get_top_by_published_year(db, limit):
         item = dict(row)
         items.append(item)
     cursor.close()
-    return items
+
 
     with open(f'result_4_1_order_published_year.json', 'w', encoding='utf-8') as file:
         file.write(json.dumps(items, ensure_ascii=False))
-
+    return items
 
 def min_max_pages(db):
     cursor = db.cursor()
@@ -96,9 +96,10 @@ def filter_views(db, min_views, limit):
     for row in res.fetchall():
         items.append(dict(row))
     cursor.close()
-    return items
     with open(f'result_4_1_filter_views.json', 'w', encoding='utf-8') as file:
         file.write(json.dumps(items, ensure_ascii=False))
+    return items
+
 
 
 items = parse_data('task_1_var_23_item.text')
