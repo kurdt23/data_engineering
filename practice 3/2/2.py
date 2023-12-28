@@ -35,6 +35,8 @@ with zipfile.ZipFile("zip_var_23.zip", "r") as zip_ref:
             p_data = {}
 
             p_data["data_id"] = p_div.find("a", class_="add-to-favorite")["data-id"]
+            p_data["link"] = p_div.find_all("a")[1]["href"]
+            p_data["img_url"] = p_div.find_all("img")[0]["src"]
             p_data["name"] = p_div.find("span").get_text(strip=True)
             p_data["price"] = int(p_div.find("price").get_text(strip=True).replace(" ", "")[:-1])
             bonus_strong = p_div.find("strong")
