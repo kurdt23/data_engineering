@@ -1,6 +1,8 @@
 [
   {
     "data_id": "62924",
+    "link": "/product/62924",
+    "img_url": "/upload/209311.jpg",
     "name": "6.4\" Acer 192GB",
     "price": 499951,
     "bonus": 4999,
@@ -13,6 +15,8 @@
   },
   {
     "data_id": "81992",
+    "link": "/product/81992",
+    "img_url": "/upload/176000.webp",
     "name": "5.3\" Samsung S21 112GB",
     "price": 499967,
     "bonus": 4999,
