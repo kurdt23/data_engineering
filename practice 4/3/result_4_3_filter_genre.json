@@ -1,0 +1,344 @@
+[
+  {
+    "id": 1071,
+    "artist": "Red Hot Chili Peppers",
+    "song": "Otherside",
+    "duration_ms": 255373,
+    "year": 1999,
+    "tempo": 123.229,
+    "genre": "rock"
+  },
+  {
+    "id": 708,
+    "artist": "OPM",
+    "song": "Heaven Is a Halfpipe (If I Die)",
+    "duration_ms": 257426,
+    "year": 2000,
+    "tempo": 95.9,
+    "genre": "rock"
+  },
+  {
+    "id": 981,
+    "artist": "Red Hot Chili Peppers",
+    "song": "Can't Stop",
+    "duration_ms": 269000,
+    "year": 2002,
+    "tempo": 91.455,
+    "genre": "rock"
+  },
+  {
+    "id": 1215,
+    "artist": "Red Hot Chili Peppers",
+    "song": "By the Way",
+    "duration_ms": 216933,
+    "year": 2002,
+    "tempo": 122.444,
+    "genre": "rock"
+  },
+  {
+    "id": 605,
+    "artist": "The Strokes",
+    "song": "Reptilia",
+    "duration_ms": 219826,
+    "year": 2003,
+    "tempo": 158.009,
+    "genre": "rock"
+  },
+  {
+    "id": 959,
+    "artist": "Electric Six",
+    "song": "Danger! High Voltage - Soulchild Radio Mix",
+    "duration_ms": 214600,
+    "year": 2003,
+    "tempo": 123.005,
+    "genre": "rock"
+  },
+  {
+    "id": 937,
+    "artist": "Green Day",
+    "song": "American Idiot",
+    "duration_ms": 176346,
+    "year": 2004,
+    "tempo": 186.113,
+    "genre": "rock"
+  },
+  {
+    "id": 1281,
+    "artist": "Franz Ferdinand",
+    "song": "Take Me Out",
+    "duration_ms": 237026,
+    "year": 2004,
+    "tempo": 104.561,
+    "genre": "rock"
+  },
+  {
+    "id": 1576,
+    "artist": "Green Day",
+    "song": "Boulevard of Broken Dreams",
+    "duration_ms": 261266,
+    "year": 2004,
+    "tempo": 167.046,
+    "genre": "rock"
+  },
+  {
+    "id": 1893,
+    "artist": "Spiderbait",
+    "song": "Black Betty - Edit",
+    "duration_ms": 205973,
+    "year": 2004,
+    "tempo": 124.047,
+    "genre": "rock"
+  },
+  {
+    "id": 852,
+    "artist": "Kaiser Chiefs",
+    "song": "I Predict A Riot",
+    "duration_ms": 233186,
+    "year": 2005,
+    "tempo": 158.842,
+    "genre": "rock"
+  },
+  {
+    "id": 1370,
+    "artist": "Franz Ferdinand",
+    "song": "Do You Want To",
+    "duration_ms": 215000,
+    "year": 2005,
+    "tempo": 123.091,
+    "genre": "rock"
+  },
+  {
+    "id": 1460,
+    "artist": "Panic! At The Disco",
+    "song": "I Write Sins Not Tragedies",
+    "duration_ms": 185586,
+    "year": 2005,
+    "tempo": 169.961,
+    "genre": "rock"
+  },
+  {
+    "id": 1558,
+    "artist": "Fall Out Boy",
+    "song": "Dance, Dance",
+    "duration_ms": 180266,
+    "year": 2005,
+    "tempo": 114.452,
+    "genre": "rock"
+  },
+  {
+    "id": 1770,
+    "artist": "Kaiser Chiefs",
+    "song": "Everyday I Love You Less And Less",
+    "duration_ms": 217706,
+    "year": 2005,
+    "tempo": 160.028,
+    "genre": "rock"
+  },
+  {
+    "id": 1940,
+    "artist": "Thirty Seconds To Mars",
+    "song": "The Kill",
+    "duration_ms": 231533,
+    "year": 2005,
+    "tempo": 182.99,
+    "genre": "rock"
+  },
+  {
+    "id": 407,
+    "artist": "The Fratellis",
+    "song": "Chelsea Dagger",
+    "duration_ms": 215306,
+    "year": 2006,
+    "tempo": 154.514,
+    "genre": "rock"
+  },
+  {
+    "id": 997,
+    "artist": "Red Hot Chili Peppers",
+    "song": "Dani California",
+    "duration_ms": 282160,
+    "year": 2006,
+    "tempo": 96.184,
+    "genre": "rock"
+  },
+  {
+    "id": 1078,
+    "artist": "Arctic Monkeys",
+    "song": "When The Sun Goes Down",
+    "duration_ms": 202133,
+    "year": 2006,
+    "tempo": 169.152,
+    "genre": "rock"
+  },
+  {
+    "id": 1155,
+    "artist": "Arctic Monkeys",
+    "song": "I Bet You Look Good On The Dancefloor",
+    "duration_ms": 173680,
+    "year": 2006,
+    "tempo": 103.183,
+    "genre": "rock"
+  },
+  {
+    "id": 1308,
+    "artist": "My Chemical Romance",
+    "song": "Welcome to the Black Parade",
+    "duration_ms": 311106,
+    "year": 2006,
+    "tempo": 96.95,
+    "genre": "rock"
+  },
+  {
+    "id": 1371,
+    "artist": "The Kooks",
+    "song": "Naive",
+    "duration_ms": 203506,
+    "year": 2006,
+    "tempo": 100.304,
+    "genre": "rock"
+  },
+  {
+    "id": 1647,
+    "artist": "Red Hot Chili Peppers",
+    "song": "Snow (Hey Oh)",
+    "duration_ms": 334666,
+    "year": 2006,
+    "tempo": 104.655,
+    "genre": "rock"
+  },
+  {
+    "id": 1679,
+    "artist": "The Raconteurs",
+    "song": "Steady, As She Goes",
+    "duration_ms": 215266,
+    "year": 2006,
+    "tempo": 123.696,
+    "genre": "rock"
+  },
+  {
+    "id": 1835,
+    "artist": "My Chemical Romance",
+    "song": "Teenagers",
+    "duration_ms": 161920,
+    "year": 2006,
+    "tempo": 111.647,
+    "genre": "rock"
+  },
+  {
+    "id": 1982,
+    "artist": "Muse",
+    "song": "Supermassive Black Hole",
+    "duration_ms": 212439,
+    "year": 2006,
+    "tempo": 120.0,
+    "genre": "rock"
+  },
+  {
+    "id": 170,
+    "artist": "MGMT",
+    "song": "Kids",
+    "duration_ms": 302840,
+    "year": 2007,
+    "tempo": 122.961,
+    "genre": "rock"
+  },
+  {
+    "id": 258,
+    "artist": "Kaiser Chiefs",
+    "song": "Ruby",
+    "duration_ms": 204200,
+    "year": 2007,
+    "tempo": 93.416,
+    "genre": "rock"
+  },
+  {
+    "id": 311,
+    "artist": "Arctic Monkeys",
+    "song": "Brianstorm",
+    "duration_ms": 172866,
+    "year": 2007,
+    "tempo": 165.182,
+    "genre": "rock"
+  },
+  {
+    "id": 488,
+    "artist": "Fall Out Boy",
+    "song": "This Ain't A Scene, It's An Arms Race",
+    "duration_ms": 212040,
+    "year": 2007,
+    "tempo": 199.935,
+    "genre": "rock"
+  },
+  {
+    "id": 920,
+    "artist": "Fall Out Boy",
+    "song": "Thnks fr th Mmrs",
+    "duration_ms": 203506,
+    "year": 2007,
+    "tempo": 154.837,
+    "genre": "rock"
+  },
+  {
+    "id": 1600,
+    "artist": "All Time Low",
+    "song": "Dear Maria, Count Me In",
+    "duration_ms": 182826,
+    "year": 2007,
+    "tempo": 181.04,
+    "genre": "rock"
+  },
+  {
+    "id": 1979,
+    "artist": "Klaxons",
+    "song": "Golden Skans",
+    "duration_ms": 165120,
+    "year": 2007,
+    "tempo": 141.955,
+    "genre": "rock"
+  },
+  {
+    "id": 125,
+    "artist": "Kings of Leon",
+    "song": "Sex on Fire",
+    "duration_ms": 203346,
+    "year": 2008,
+    "tempo": 153.398,
+    "genre": "rock"
+  },
+  {
+    "id": 235,
+    "artist": "Kings of Leon",
+    "song": "Sex on Fire",
+    "duration_ms": 203346,
+    "year": 2008,
+    "tempo": 153.398,
+    "genre": "rock"
+  },
+  {
+    "id": 31,
+    "artist": "Green Day",
+    "song": "21 Guns",
+    "duration_ms": 321093,
+    "year": 2009,
+    "tempo": 159.779,
+    "genre": "rock"
+  },
+  {
+    "id": 577,
+    "artist": "The xx",
+    "song": "Intro",
+    "duration_ms": 127920,
+    "year": 2009,
+    "tempo": 100.363,
+    "genre": "rock"
+  },
+  {
+    "id": 1048,
+    "artist": "Muse",
+    "song": "Uprising",
+    "duration_ms": 304840,
+    "year": 2009,
+    "tempo": 128.019,
+    "genre": "rock"
+  }
+]

@@ -1,0 +1,299 @@
+[
+  {
+    "id": 1079,
+    "artist": "Jeremih",
+    "song": "Birthday Sex",
+    "duration_ms": 226506,
+    "year": 2009,
+    "tempo": 60.019,
+    "genre": "hip hop, pop, R&B"
+  },
+  {
+    "id": 662,
+    "artist": "Ginuwine",
+    "song": "Differences",
+    "duration_ms": 265533,
+    "year": 2001,
+    "tempo": 62.876,
+    "genre": "hip hop, pop, R&B"
+  },
+  {
+    "id": 1680,
+    "artist": "XXXTENTACION",
+    "song": "changes",
+    "duration_ms": 121886,
+    "year": 2018,
+    "tempo": 64.934,
+    "genre": "hip hop"
+  },
+  {
+    "id": 651,
+    "artist": "Justin Bieber",
+    "song": "Baby",
+    "duration_ms": 214240,
+    "year": 2010,
+    "tempo": 65.043,
+    "genre": "pop"
+  },
+  {
+    "id": 281,
+    "artist": "Jay Sean",
+    "song": "Down",
+    "duration_ms": 212106,
+    "year": 2009,
+    "tempo": 65.997,
+    "genre": "hip hop, pop, R&B"
+  },
+  {
+    "id": 644,
+    "artist": "Jay Sean",
+    "song": "Down",
+    "duration_ms": 212106,
+    "year": 2009,
+    "tempo": 65.997,
+    "genre": "hip hop, pop, R&B"
+  },
+  {
+    "id": 322,
+    "artist": "Eamon",
+    "song": "Fuck It (I Don't Want You Back)",
+    "duration_ms": 225106,
+    "year": 2004,
+    "tempo": 68.507,
+    "genre": "set()"
+  },
+  {
+    "id": 760,
+    "artist": "Shayne Ward",
+    "song": "That's My Goal",
+    "duration_ms": 219600,
+    "year": 2006,
+    "tempo": 68.637,
+    "genre": "pop"
+  },
+  {
+    "id": 121,
+    "artist": "Mary J. Blige",
+    "song": "Rainy Dayz",
+    "duration_ms": 276373,
+    "year": 2001,
+    "tempo": 68.942,
+    "genre": "pop, R&B"
+  },
+  {
+    "id": 917,
+    "artist": "Tom Walker",
+    "song": "Leave a Light On",
+    "duration_ms": 185863,
+    "year": 2017,
+    "tempo": 68.976,
+    "genre": "rock, pop"
+  },
+  {
+    "id": 1671,
+    "artist": "Leona Lewis",
+    "song": "A Moment Like This",
+    "duration_ms": 257293,
+    "year": 2007,
+    "tempo": 70.543,
+    "genre": "pop, R&B"
+  },
+  {
+    "id": 234,
+    "artist": "Amy Winehouse",
+    "song": "Rehab",
+    "duration_ms": 214946,
+    "year": 2006,
+    "tempo": 71.815,
+    "genre": "R&B"
+  },
+  {
+    "id": 1465,
+    "artist": "Bow Wow",
+    "song": "Bounce With Me (feat. Xscape) - Edited Album Version",
+    "duration_ms": 175893,
+    "year": 2000,
+    "tempo": 72.016,
+    "genre": "hip hop, pop, R&B"
+  },
+  {
+    "id": 1148,
+    "artist": "Rita Ora",
+    "song": "R.I.P. (feat. Tinie Tempah)",
+    "duration_ms": 228026,
+    "year": 2012,
+    "tempo": 72.022,
+    "genre": "hip hop, pop, Dance/Electronic"
+  },
+  {
+    "id": 1610,
+    "artist": "Bruno Mars",
+    "song": "When I Was Your Man",
+    "duration_ms": 213826,
+    "year": 2012,
+    "tempo": 72.795,
+    "genre": "pop"
+  },
+  {
+    "id": 1697,
+    "artist": "2 Chainz",
+    "song": "It's A Vibe",
+    "duration_ms": 210200,
+    "year": 2017,
+    "tempo": 73.003,
+    "genre": "hip hop, pop"
+  },
+  {
+    "id": 87,
+    "artist": "Avant",
+    "song": "Read Your Mind",
+    "duration_ms": 263506,
+    "year": 2003,
+    "tempo": 73.108,
+    "genre": "pop, R&B"
+  },
+  {
+    "id": 831,
+    "artist": "T.I.",
+    "song": "What You Know",
+    "duration_ms": 274333,
+    "year": 2006,
+    "tempo": 73.464,
+    "genre": "hip hop, pop"
+  },
+  {
+    "id": 1790,
+    "artist": "Mario",
+    "song": "Break Up",
+    "duration_ms": 249026,
+    "year": 2009,
+    "tempo": 73.881,
+    "genre": "pop, R&B"
+  },
+  {
+    "id": 1199,
+    "artist": "Justin Timberlake",
+    "song": "Cry Me a River",
+    "duration_ms": 288333,
+    "year": 2002,
+    "tempo": 73.898,
+    "genre": "pop"
+  },
+  {
+    "id": 642,
+    "artist": "Chris Brown",
+    "song": "Deuces (feat. Tyga & Kevin McCall)",
+    "duration_ms": 276560,
+    "year": 2011,
+    "tempo": 73.987,
+    "genre": "hip hop, pop, R&B"
+  },
+  {
+    "id": 643,
+    "artist": "Cherish",
+    "song": "Do It To It",
+    "duration_ms": 226293,
+    "year": 2006,
+    "tempo": 74.007,
+    "genre": "hip hop, pop, R&B"
+  },
+  {
+    "id": 421,
+    "artist": "Trey Songz",
+    "song": "Bottoms Up (feat. Nicki Minaj)",
+    "duration_ms": 242013,
+    "year": 2010,
+    "tempo": 74.008,
+    "genre": "hip hop, pop, R&B"
+  },
+  {
+    "id": 1615,
+    "artist": "Kendrick Lamar",
+    "song": "Swimming Pools (Drank) - Extended Version",
+    "duration_ms": 313786,
+    "year": 2012,
+    "tempo": 74.132,
+    "genre": "hip hop"
+  },
+  {
+    "id": 362,
+    "artist": "Christina Perri",
+    "song": "Jar of Hearts",
+    "duration_ms": 246587,
+    "year": 2011,
+    "tempo": 74.541,
+    "genre": "pop"
+  },
+  {
+    "id": 1451,
+    "artist": "Twenty One Pilots",
+    "song": "Ride",
+    "duration_ms": 214506,
+    "year": 2015,
+    "tempo": 74.989,
+    "genre": "rock"
+  },
+  {
+    "id": 1167,
+    "artist": "Lloyd",
+    "song": "Southside",
+    "duration_ms": 277840,
+    "year": 2004,
+    "tempo": 75.007,
+    "genre": "hip hop, pop, R&B"
+  },
+  {
+    "id": 1204,
+    "artist": "21 Savage",
+    "song": "Bank Account",
+    "duration_ms": 220306,
+    "year": 2017,
+    "tempo": 75.016,
+    "genre": "hip hop"
+  },
+  {
+    "id": 977,
+    "artist": "XXXTENTACION",
+    "song": "SAD!",
+    "duration_ms": 166605,
+    "year": 2018,
+    "tempo": 75.023,
+    "genre": "hip hop"
+  },
+  {
+    "id": 295,
+    "artist": "Westlife",
+    "song": "You Raise Me Up",
+    "duration_ms": 241066,
+    "year": 2005,
+    "tempo": 75.048,
+    "genre": "pop"
+  },
+  {
+    "id": 1771,
+    "artist": "Rag'n'Bone Man",
+    "song": "Human",
+    "duration_ms": 200186,
+    "year": 2017,
+    "tempo": 75.087,
+    "genre": "R&B"
+  },
+  {
+    "id": 491,
+    "artist": "Passenger",
+    "song": "Let Her Go",
+    "duration_ms": 252866,
+    "year": 2012,
+    "tempo": 75.089,
+    "genre": "pop"
+  },
+  {
+    "id": 1984,
+    "artist": "Alicia Keys",
+    "song": "A Woman's Worth",
+    "duration_ms": 303333,
+    "year": 2001,
+    "tempo": 75.09,
+    "genre": "pop, R&B"
+  }
+]
