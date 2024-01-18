@@ -1,0 +1,112 @@
+[
+    {
+        "id": 3358,
+        "name": "delightful facial cleanser",
+        "price": 74.2,
+        "quantity": 562,
+        "category": "cosmetics",
+        "fromCity": "Санкт-Петербург",
+        "isAvailable": 0,
+        "views": 27801,
+        "version": 12
+    },
+    {
+        "id": 3371,
+        "name": "delightful facial cleanser",
+        "price": 47.65,
+        "quantity": 560,
+        "category": "cosmetics",
+        "fromCity": "Кишинев",
+        "isAvailable": 0,
+        "views": 822,
+        "version": 12
+    },
+    {
+        "id": 3506,
+        "name": "refined perfume",
+        "price": 31.5,
+        "quantity": 853,
+        "category": "cosmetics",
+        "fromCity": "Таллин",
+        "isAvailable": 1,
+        "views": 32191,
+        "version": 12
+    },
+    {
+        "id": 3532,
+        "name": "sublime wallpaper",
+        "price": 54.41,
+        "quantity": 799,
+        "category": "tools",
+        "fromCity": "Луго",
+        "isAvailable": 0,
+        "views": 48886,
+        "version": 12
+    },
+    {
+        "id": 3424,
+        "name": "luxurious pineapple",
+        "price": 33.51,
+        "quantity": 806,
+        "category": "fruit",
+        "fromCity": "Хельсинки",
+        "isAvailable": 0,
+        "views": 96762,
+        "version": 11
+    },
+    {
+        "id": 3436,
+        "name": "Corsair HS60",
+        "price": 24466.0,
+        "quantity": 47,
+        "category": null,
+        "fromCity": "Бланес",
+        "isAvailable": 1,
+        "views": 85865,
+        "version": 11
+    },
+    {
+        "id": 3501,
+        "name": "Corsair HS60",
+        "price": 47861.0,
+        "quantity": 72,
+        "category": null,
+        "fromCity": "Мартоса",
+        "isAvailable": 1,
+        "views": 86419,
+        "version": 11
+    },
+    {
+        "id": 3560,
+        "name": "tasteful siding",
+        "price": 46.32,
+        "quantity": 489,
+        "category": "tools",
+        "fromCity": "Баку",
+        "isAvailable": 1,
+        "views": 52075,
+        "version": 11
+    },
+    {
+        "id": 3564,
+        "name": "exquisite bubble bath",
+        "price": 82.38,
+        "quantity": 671,
+        "category": "cosmetics",
+        "fromCity": "Ла-Корунья",
+        "isAvailable": 1,
+        "views": 57025,
+        "version": 10
+    },
+    {
+        "id": 3567,
+        "name": "tasteful cranberry",
+        "price": 40.09,
+        "quantity": 1006,
+        "category": "fruit",
+        "fromCity": "Минск",
+        "isAvailable": 1,
+        "views": 62245,
+        "version": 10
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "id": 3361,
+        "name": "marvelous siding",
+        "price": 74.89,
+        "quantity": 913,
+        "category": "tools",
+        "fromCity": "Тудела",
+        "isAvailable": 0,
+        "views": 98335,
+        "version": 8
+    },
+    {
+        "id": 3424,
+        "name": "luxurious pineapple",
+        "price": 33.51,
+        "quantity": 806,
+        "category": "fruit",
+        "fromCity": "Хельсинки",
+        "isAvailable": 0,
+        "views": 96762,
+        "version": 11
+    },
+    {
+        "id": 3568,
+        "name": "glamorous hammer",
+        "price": 35.93,
+        "quantity": 781,
+        "category": "tools",
+        "fromCity": "Рига",
+        "isAvailable": 0,
+        "views": 90261,
+        "version": 1
+    },
+    {
+        "id": 3556,
+        "name": "superb lip balm",
+        "price": 18.25,
+        "quantity": 586,
+        "category": "cosmetics",
+        "fromCity": "Эльче",
+        "isAvailable": 0,
+        "views": 89003,
+        "version": 5
+    },
+    {
+        "id": 3545,
+        "name": "elegant moustache wax",
+        "price": 91.35,
+        "quantity": 741,
+        "category": "cosmetics",
+        "fromCity": "Осера",
+        "isAvailable": 1,
+        "views": 87943,
+        "version": 3
+    }
+]
