@@ -1,0 +1,67 @@
+[
+    {
+        "id": 625,
+        "rank": 625,
+        "Youtuber": "Kuplinov пїЅпїЅпї",
+        "subscribers": 15600000,
+        "category": "Gaming",
+        "Title": "Kuplinov пїЅпїЅпї",
+        "uploads": 6623,
+        "channel_type": "Games",
+        "created_year": 2012,
+        "created_month": "Dec",
+        "created_date": 23
+    },
+    {
+        "id": 111,
+        "rank": 111,
+        "Youtuber": "Markiplier",
+        "subscribers": 35200000,
+        "category": "Gaming",
+        "Title": "Markiplier",
+        "uploads": 5490,
+        "channel_type": "Games",
+        "created_year": 2012,
+        "created_month": "May",
+        "created_date": 26
+    },
+    {
+        "id": 524,
+        "rank": 524,
+        "Youtuber": "PopularMMOs",
+        "subscribers": 17200000,
+        "category": "Gaming",
+        "Title": "PopularMMOs",
+        "uploads": 4685,
+        "channel_type": "Games",
+        "created_year": 2012,
+        "created_month": "Apr",
+        "created_date": 17
+    },
+    {
+        "id": 516,
+        "rank": 516,
+        "Youtuber": "Aphmau",
+        "subscribers": 17400000,
+        "category": "Gaming",
+        "Title": "Aphmau",
+        "uploads": 4411,
+        "channel_type": "Games",
+        "created_year": 2012,
+        "created_month": "Aug",
+        "created_date": 13
+    },
+    {
+        "id": 198,
+        "rank": 198,
+        "Youtuber": "DanTDM",
+        "subscribers": 27400000,
+        "category": "Gaming",
+        "Title": "DanTDM",
+        "uploads": 3664,
+        "channel_type": "Games",
+        "created_year": 2012,
+        "created_month": "Jul",
+        "created_date": 14
+    }
+]

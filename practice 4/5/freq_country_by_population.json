@@ -1,0 +1,394 @@
+[
+    {
+        "frequency": 1,
+        "Country": "China",
+        "Abbreviation": "CN",
+        "Urban_population": 842933962,
+        "Gross_tertiary_education_enrollment": 50.6,
+        "Unemployment_rate": 4.32
+    },
+    {
+        "frequency": 168,
+        "Country": "India",
+        "Abbreviation": "IN",
+        "Urban_population": 471031528,
+        "Gross_tertiary_education_enrollment": 28.1,
+        "Unemployment_rate": 5.36
+    },
+    {
+        "frequency": 313,
+        "Country": "United States",
+        "Abbreviation": "US",
+        "Urban_population": 270663028,
+        "Gross_tertiary_education_enrollment": 88.2,
+        "Unemployment_rate": 14.7
+    },
+    {
+        "frequency": 28,
+        "Country": "Indonesia",
+        "Abbreviation": "ID",
+        "Urban_population": 151509724,
+        "Gross_tertiary_education_enrollment": 36.3,
+        "Unemployment_rate": 4.69
+    },
+    {
+        "frequency": 6,
+        "Country": "Pakistan",
+        "Abbreviation": "PK",
+        "Urban_population": 79927762,
+        "Gross_tertiary_education_enrollment": 9.0,
+        "Unemployment_rate": 4.45
+    },
+    {
+        "frequency": 62,
+        "Country": "Brazil",
+        "Abbreviation": "BR",
+        "Urban_population": 183241641,
+        "Gross_tertiary_education_enrollment": 51.3,
+        "Unemployment_rate": 12.08
+    },
+    {
+        "frequency": 1,
+        "Country": "Bangladesh",
+        "Abbreviation": "BD",
+        "Urban_population": 60987417,
+        "Gross_tertiary_education_enrollment": 20.6,
+        "Unemployment_rate": 4.19
+    },
+    {
+        "frequency": 17,
+        "Country": "Russia",
+        "Abbreviation": "RU",
+        "Urban_population": 107683889,
+        "Gross_tertiary_education_enrollment": 81.9,
+        "Unemployment_rate": 4.59
+    },
+    {
+        "frequency": 5,
+        "Country": "Japan",
+        "Abbreviation": "JP",
+        "Urban_population": 115782416,
+        "Gross_tertiary_education_enrollment": 63.2,
+        "Unemployment_rate": 2.29
+    },
+    {
+        "frequency": 33,
+        "Country": "Mexico",
+        "Abbreviation": "MX",
+        "Urban_population": 102626859,
+        "Gross_tertiary_education_enrollment": 40.2,
+        "Unemployment_rate": 3.42
+    },
+    {
+        "frequency": 12,
+        "Country": "Philippines",
+        "Abbreviation": "PH",
+        "Urban_population": 50975903,
+        "Gross_tertiary_education_enrollment": 35.5,
+        "Unemployment_rate": 2.15
+    },
+    {
+        "frequency": 2,
+        "Country": "Egypt",
+        "Abbreviation": "EG",
+        "Urban_population": 42895824,
+        "Gross_tertiary_education_enrollment": 35.2,
+        "Unemployment_rate": 10.76
+    },
+    {
+        "frequency": 3,
+        "Country": "Vietnam",
+        "Abbreviation": "VN",
+        "Urban_population": 35332140,
+        "Gross_tertiary_education_enrollment": 28.5,
+        "Unemployment_rate": 2.01
+    },
+    {
+        "frequency": 4,
+        "Country": "Turkey",
+        "Abbreviation": "TR",
+        "Urban_population": 63097818,
+        "Gross_tertiary_education_enrollment": 23.9,
+        "Unemployment_rate": 13.49
+    },
+    {
+        "frequency": 6,
+        "Country": "Germany",
+        "Abbreviation": "DE",
+        "Urban_population": 64324835,
+        "Gross_tertiary_education_enrollment": 70.2,
+        "Unemployment_rate": 3.04
+    },
+    {
+        "frequency": 18,
+        "Country": "Thailand",
+        "Abbreviation": "TH",
+        "Urban_population": 35294600,
+        "Gross_tertiary_education_enrollment": 49.3,
+        "Unemployment_rate": 0.75
+    },
+    {
+        "frequency": 5,
+        "Country": "France",
+        "Abbreviation": "FR",
+        "Urban_population": 54123364,
+        "Gross_tertiary_education_enrollment": 65.6,
+        "Unemployment_rate": 8.43
+    },
+    {
+        "frequency": 43,
+        "Country": "United Kingdom",
+        "Abbreviation": "GB",
+        "Urban_population": 55908316,
+        "Gross_tertiary_education_enrollment": 60.0,
+        "Unemployment_rate": 3.85
+    },
+    {
+        "frequency": 2,
+        "Country": "Italy",
+        "Abbreviation": "IT",
+        "Urban_population": 42651966,
+        "Gross_tertiary_education_enrollment": 61.9,
+        "Unemployment_rate": 9.89
+    },
+    {
+        "frequency": 17,
+        "Country": "South Korea",
+        "Abbreviation": "KR",
+        "Urban_population": 42106719,
+        "Gross_tertiary_education_enrollment": 94.3,
+        "Unemployment_rate": 4.15
+    },
+    {
+        "frequency": 11,
+        "Country": "Colombia",
+        "Abbreviation": "CO",
+        "Urban_population": 40827302,
+        "Gross_tertiary_education_enrollment": 55.3,
+        "Unemployment_rate": 9.71
+    },
+    {
+        "frequency": 22,
+        "Country": "Spain",
+        "Abbreviation": "ES",
+        "Urban_population": 37927409,
+        "Gross_tertiary_education_enrollment": 88.9,
+        "Unemployment_rate": 13.96
+    },
+    {
+        "frequency": 13,
+        "Country": "Argentina",
+        "Abbreviation": "AR",
+        "Urban_population": 41339571,
+        "Gross_tertiary_education_enrollment": 90.0,
+        "Unemployment_rate": 9.79
+    },
+    {
+        "frequency": 8,
+        "Country": "Ukraine",
+        "Abbreviation": "UA",
+        "Urban_population": 30835699,
+        "Gross_tertiary_education_enrollment": 82.7,
+        "Unemployment_rate": 8.88
+    },
+    {
+        "frequency": 2,
+        "Country": "Iraq",
+        "Abbreviation": "IQ",
+        "Urban_population": 27783368,
+        "Gross_tertiary_education_enrollment": 16.2,
+        "Unemployment_rate": 12.82
+    },
+    {
+        "frequency": 1,
+        "Country": "Afghanistan",
+        "Abbreviation": "AF",
+        "Urban_population": 9797273,
+        "Gross_tertiary_education_enrollment": 9.7,
+        "Unemployment_rate": 11.12
+    },
+    {
+        "frequency": 15,
+        "Country": "Canada",
+        "Abbreviation": "CA",
+        "Urban_population": 30628482,
+        "Gross_tertiary_education_enrollment": 68.9,
+        "Unemployment_rate": 5.56
+    },
+    {
+        "frequency": 1,
+        "Country": "Morocco",
+        "Abbreviation": "MA",
+        "Urban_population": 22975026,
+        "Gross_tertiary_education_enrollment": 35.9,
+        "Unemployment_rate": 9.02
+    },
+    {
+        "frequency": 9,
+        "Country": "Saudi Arabia",
+        "Abbreviation": "SA",
+        "Urban_population": 28807838,
+        "Gross_tertiary_education_enrollment": 68.0,
+        "Unemployment_rate": 5.93
+    },
+    {
+        "frequency": 1,
+        "Country": "Peru",
+        "Abbreviation": "PE",
+        "Urban_population": 25390339,
+        "Gross_tertiary_education_enrollment": 70.7,
+        "Unemployment_rate": 3.31
+    },
+    {
+        "frequency": 1,
+        "Country": "Malaysia",
+        "Abbreviation": "MY",
+        "Urban_population": 24475766,
+        "Gross_tertiary_education_enrollment": 45.1,
+        "Unemployment_rate": 3.32
+    },
+    {
+        "frequency": 1,
+        "Country": "Venezuela",
+        "Abbreviation": "VE",
+        "Urban_population": 25162368,
+        "Gross_tertiary_education_enrollment": 79.3,
+        "Unemployment_rate": 8.8
+    },
+    {
+        "frequency": 9,
+        "Country": "Australia",
+        "Abbreviation": "AU",
+        "Urban_population": 21844756,
+        "Gross_tertiary_education_enrollment": 113.1,
+        "Unemployment_rate": 5.27
+    },
+    {
+        "frequency": 3,
+        "Country": "Chile",
+        "Abbreviation": "CL",
+        "Urban_population": 16610135,
+        "Gross_tertiary_education_enrollment": 88.5,
+        "Unemployment_rate": 7.09
+    },
+    {
+        "frequency": 2,
+        "Country": "Ecuador",
+        "Abbreviation": "EC",
+        "Urban_population": 11116711,
+        "Gross_tertiary_education_enrollment": 44.9,
+        "Unemployment_rate": 3.97
+    },
+    {
+        "frequency": 3,
+        "Country": "Netherlands",
+        "Abbreviation": "NL",
+        "Urban_population": 15924729,
+        "Gross_tertiary_education_enrollment": 85.0,
+        "Unemployment_rate": 3.2
+    },
+    {
+        "frequency": 1,
+        "Country": "Cuba",
+        "Abbreviation": "CU",
+        "Urban_population": 8739135,
+        "Gross_tertiary_education_enrollment": 41.4,
+        "Unemployment_rate": 1.64
+    },
+    {
+        "frequency": 4,
+        "Country": "Sweden",
+        "Abbreviation": "SE",
+        "Urban_population": 9021165,
+        "Gross_tertiary_education_enrollment": 67.0,
+        "Unemployment_rate": 6.48
+    },
+    {
+        "frequency": 3,
+        "Country": "Jordan",
+        "Abbreviation": "JO",
+        "Urban_population": 9213048,
+        "Gross_tertiary_education_enrollment": 34.4,
+        "Unemployment_rate": 14.72
+    },
+    {
+        "frequency": 7,
+        "Country": "United Arab Emirates",
+        "Abbreviation": "AE",
+        "Urban_population": 8479744,
+        "Gross_tertiary_education_enrollment": 36.8,
+        "Unemployment_rate": 2.35
+    },
+    {
+        "frequency": 1,
+        "Country": "Switzerland",
+        "Abbreviation": "CH",
+        "Urban_population": 6332428,
+        "Gross_tertiary_education_enrollment": 59.6,
+        "Unemployment_rate": 4.58
+    },
+    {
+        "frequency": 1,
+        "Country": "El Salvador",
+        "Abbreviation": "SV",
+        "Urban_population": 4694702,
+        "Gross_tertiary_education_enrollment": 29.4,
+        "Unemployment_rate": 4.11
+    },
+    {
+        "frequency": 3,
+        "Country": "Singapore",
+        "Abbreviation": "SG",
+        "Urban_population": 5703569,
+        "Gross_tertiary_education_enrollment": 84.8,
+        "Unemployment_rate": 4.11
+    },
+    {
+        "frequency": 1,
+        "Country": "Finland",
+        "Abbreviation": "FI",
+        "Urban_population": 4716888,
+        "Gross_tertiary_education_enrollment": 88.2,
+        "Unemployment_rate": 6.59
+    },
+    {
+        "frequency": 1,
+        "Country": "Kuwait",
+        "Abbreviation": "KW",
+        "Urban_population": 4207083,
+        "Gross_tertiary_education_enrollment": 54.4,
+        "Unemployment_rate": 2.18
+    },
+    {
+        "frequency": 1,
+        "Country": "Latvia",
+        "Abbreviation": "LV",
+        "Urban_population": 1304943,
+        "Gross_tertiary_education_enrollment": 88.1,
+        "Unemployment_rate": 6.52
+    },
+    {
+        "frequency": 1,
+        "Country": "Barbados",
+        "Abbreviation": "BB",
+        "Urban_population": 89431,
+        "Gross_tertiary_education_enrollment": 65.4,
+        "Unemployment_rate": 10.33
+    },
+    {
+        "frequency": 1,
+        "Country": "Samoa",
+        "Abbreviation": "WS",
+        "Urban_population": 35588,
+        "Gross_tertiary_education_enrollment": 7.6,
+        "Unemployment_rate": 8.36
+    },
+    {
+        "frequency": 1,
+        "Country": "Andorra",
+        "Abbreviation": "AD",
+        "Urban_population": null,
+        "Gross_tertiary_education_enrollment": null,
+        "Unemployment_rate": null
+    }
+]

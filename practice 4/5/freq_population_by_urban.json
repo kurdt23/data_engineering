@@ -1,0 +1,296 @@
+[
+    {
+        "frequency": 1,
+        "Country": "China",
+        "Gross_tertiary_education_enrollment": 50.6,
+        "Unemployment_rate": 4.32
+    },
+    {
+        "frequency": 168,
+        "Country": "India",
+        "Gross_tertiary_education_enrollment": 28.1,
+        "Unemployment_rate": 5.36
+    },
+    {
+        "frequency": 313,
+        "Country": "United States",
+        "Gross_tertiary_education_enrollment": 88.2,
+        "Unemployment_rate": 14.7
+    },
+    {
+        "frequency": 62,
+        "Country": "Brazil",
+        "Gross_tertiary_education_enrollment": 51.3,
+        "Unemployment_rate": 12.08
+    },
+    {
+        "frequency": 28,
+        "Country": "Indonesia",
+        "Gross_tertiary_education_enrollment": 36.3,
+        "Unemployment_rate": 4.69
+    },
+    {
+        "frequency": 5,
+        "Country": "Japan",
+        "Gross_tertiary_education_enrollment": 63.2,
+        "Unemployment_rate": 2.29
+    },
+    {
+        "frequency": 17,
+        "Country": "Russia",
+        "Gross_tertiary_education_enrollment": 81.9,
+        "Unemployment_rate": 4.59
+    },
+    {
+        "frequency": 33,
+        "Country": "Mexico",
+        "Gross_tertiary_education_enrollment": 40.2,
+        "Unemployment_rate": 3.42
+    },
+    {
+        "frequency": 6,
+        "Country": "Pakistan",
+        "Gross_tertiary_education_enrollment": 9.0,
+        "Unemployment_rate": 4.45
+    },
+    {
+        "frequency": 6,
+        "Country": "Germany",
+        "Gross_tertiary_education_enrollment": 70.2,
+        "Unemployment_rate": 3.04
+    },
+    {
+        "frequency": 4,
+        "Country": "Turkey",
+        "Gross_tertiary_education_enrollment": 23.9,
+        "Unemployment_rate": 13.49
+    },
+    {
+        "frequency": 1,
+        "Country": "Bangladesh",
+        "Gross_tertiary_education_enrollment": 20.6,
+        "Unemployment_rate": 4.19
+    },
+    {
+        "frequency": 43,
+        "Country": "United Kingdom",
+        "Gross_tertiary_education_enrollment": 60.0,
+        "Unemployment_rate": 3.85
+    },
+    {
+        "frequency": 5,
+        "Country": "France",
+        "Gross_tertiary_education_enrollment": 65.6,
+        "Unemployment_rate": 8.43
+    },
+    {
+        "frequency": 12,
+        "Country": "Philippines",
+        "Gross_tertiary_education_enrollment": 35.5,
+        "Unemployment_rate": 2.15
+    },
+    {
+        "frequency": 2,
+        "Country": "Egypt",
+        "Gross_tertiary_education_enrollment": 35.2,
+        "Unemployment_rate": 10.76
+    },
+    {
+        "frequency": 2,
+        "Country": "Italy",
+        "Gross_tertiary_education_enrollment": 61.9,
+        "Unemployment_rate": 9.89
+    },
+    {
+        "frequency": 17,
+        "Country": "South Korea",
+        "Gross_tertiary_education_enrollment": 94.3,
+        "Unemployment_rate": 4.15
+    },
+    {
+        "frequency": 13,
+        "Country": "Argentina",
+        "Gross_tertiary_education_enrollment": 90.0,
+        "Unemployment_rate": 9.79
+    },
+    {
+        "frequency": 11,
+        "Country": "Colombia",
+        "Gross_tertiary_education_enrollment": 55.3,
+        "Unemployment_rate": 9.71
+    },
+    {
+        "frequency": 22,
+        "Country": "Spain",
+        "Gross_tertiary_education_enrollment": 88.9,
+        "Unemployment_rate": 13.96
+    },
+    {
+        "frequency": 3,
+        "Country": "Vietnam",
+        "Gross_tertiary_education_enrollment": 28.5,
+        "Unemployment_rate": 2.01
+    },
+    {
+        "frequency": 18,
+        "Country": "Thailand",
+        "Gross_tertiary_education_enrollment": 49.3,
+        "Unemployment_rate": 0.75
+    },
+    {
+        "frequency": 8,
+        "Country": "Ukraine",
+        "Gross_tertiary_education_enrollment": 82.7,
+        "Unemployment_rate": 8.88
+    },
+    {
+        "frequency": 15,
+        "Country": "Canada",
+        "Gross_tertiary_education_enrollment": 68.9,
+        "Unemployment_rate": 5.56
+    },
+    {
+        "frequency": 9,
+        "Country": "Saudi Arabia",
+        "Gross_tertiary_education_enrollment": 68.0,
+        "Unemployment_rate": 5.93
+    },
+    {
+        "frequency": 2,
+        "Country": "Iraq",
+        "Gross_tertiary_education_enrollment": 16.2,
+        "Unemployment_rate": 12.82
+    },
+    {
+        "frequency": 1,
+        "Country": "Peru",
+        "Gross_tertiary_education_enrollment": 70.7,
+        "Unemployment_rate": 3.31
+    },
+    {
+        "frequency": 1,
+        "Country": "Venezuela",
+        "Gross_tertiary_education_enrollment": 79.3,
+        "Unemployment_rate": 8.8
+    },
+    {
+        "frequency": 1,
+        "Country": "Malaysia",
+        "Gross_tertiary_education_enrollment": 45.1,
+        "Unemployment_rate": 3.32
+    },
+    {
+        "frequency": 1,
+        "Country": "Morocco",
+        "Gross_tertiary_education_enrollment": 35.9,
+        "Unemployment_rate": 9.02
+    },
+    {
+        "frequency": 9,
+        "Country": "Australia",
+        "Gross_tertiary_education_enrollment": 113.1,
+        "Unemployment_rate": 5.27
+    },
+    {
+        "frequency": 3,
+        "Country": "Chile",
+        "Gross_tertiary_education_enrollment": 88.5,
+        "Unemployment_rate": 7.09
+    },
+    {
+        "frequency": 3,
+        "Country": "Netherlands",
+        "Gross_tertiary_education_enrollment": 85.0,
+        "Unemployment_rate": 3.2
+    },
+    {
+        "frequency": 2,
+        "Country": "Ecuador",
+        "Gross_tertiary_education_enrollment": 44.9,
+        "Unemployment_rate": 3.97
+    },
+    {
+        "frequency": 1,
+        "Country": "Afghanistan",
+        "Gross_tertiary_education_enrollment": 9.7,
+        "Unemployment_rate": 11.12
+    },
+    {
+        "frequency": 3,
+        "Country": "Jordan",
+        "Gross_tertiary_education_enrollment": 34.4,
+        "Unemployment_rate": 14.72
+    },
+    {
+        "frequency": 4,
+        "Country": "Sweden",
+        "Gross_tertiary_education_enrollment": 67.0,
+        "Unemployment_rate": 6.48
+    },
+    {
+        "frequency": 1,
+        "Country": "Cuba",
+        "Gross_tertiary_education_enrollment": 41.4,
+        "Unemployment_rate": 1.64
+    },
+    {
+        "frequency": 7,
+        "Country": "United Arab Emirates",
+        "Gross_tertiary_education_enrollment": 36.8,
+        "Unemployment_rate": 2.35
+    },
+    {
+        "frequency": 1,
+        "Country": "Switzerland",
+        "Gross_tertiary_education_enrollment": 59.6,
+        "Unemployment_rate": 4.58
+    },
+    {
+        "frequency": 3,
+        "Country": "Singapore",
+        "Gross_tertiary_education_enrollment": 84.8,
+        "Unemployment_rate": 4.11
+    },
+    {
+        "frequency": 1,
+        "Country": "Finland",
+        "Gross_tertiary_education_enrollment": 88.2,
+        "Unemployment_rate": 6.59
+    },
+    {
+        "frequency": 1,
+        "Country": "El Salvador",
+        "Gross_tertiary_education_enrollment": 29.4,
+        "Unemployment_rate": 4.11
+    },
+    {
+        "frequency": 1,
+        "Country": "Kuwait",
+        "Gross_tertiary_education_enrollment": 54.4,
+        "Unemployment_rate": 2.18
+    },
+    {
+        "frequency": 1,
+        "Country": "Latvia",
+        "Gross_tertiary_education_enrollment": 88.1,
+        "Unemployment_rate": 6.52
+    },
+    {
+        "frequency": 1,
+        "Country": "Barbados",
+        "Gross_tertiary_education_enrollment": 65.4,
+        "Unemployment_rate": 10.33
+    },
+    {
+        "frequency": 1,
+        "Country": "Samoa",
+        "Gross_tertiary_education_enrollment": 7.6,
+        "Unemployment_rate": 8.36
+    },
+    {
+        "frequency": 1,
+        "Country": "Andorra",
+        "Gross_tertiary_education_enrollment": null,
+        "Unemployment_rate": null
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "category": "Film & Animation",
+        "sum": 18202965,
+        "min": 1,
+        "max": 6700000,
+        "avg": 520084.71428571426
+    },
+    {
+        "category": "Shows",
+        "sum": 6500002,
+        "min": 2,
+        "max": 1100000,
+        "avg": 500000.1538461539
+    },
+    {
+        "category": "Comedy",
+        "sum": 19800256,
+        "min": 5,
+        "max": 1900000,
+        "avg": 450005.8181818182
+    },
+    {
+        "category": "Entertainment",
+        "sum": 64441018,
+        "min": 1,
+        "max": 8000000,
+        "avg": 415748.50322580646
+    },
+    {
+        "category": "Movies",
+        "sum": 800000,
+        "min": 300000,
+        "max": 500000,
+        "avg": 400000.0
+    },
+    {
+        "category": "Autos & Vehicles",
+        "sum": 800000,
+        "min": 300000,
+        "max": 500000,
+        "avg": 400000.0
+    },
+    {
+        "category": "People & Blogs",
+        "sum": 34006707,
+        "min": 1,
+        "max": 1900000,
+        "avg": 386439.8522727273
+    },
+    {
+        "category": "Pets & Animals",
+        "sum": 1300005,
+        "min": 5,
+        "max": 1100000,
+        "avg": 325001.25
+    },
+    {
+        "category": "Education",
+        "sum": 10500000,
+        "min": 100000,
+        "max": 1600000,
+        "avg": 308823.5294117647
+    },
+    {
+        "category": "Trailers",
+        "sum": 600000,
+        "min": 200000,
+        "max": 400000,
+        "avg": 300000.0
+    },
+    {
+        "category": "Sports",
+        "sum": 2600000,
+        "min": 100000,
+        "max": 700000,
+        "avg": 288888.8888888889
+    },
+    {
+        "category": "News & Politics",
+        "sum": 5630000,
+        "min": 100000,
+        "max": 700000,
+        "avg": 268095.2380952381
+    },
+    {
+        "category": "Nonprofits & Activism",
+        "sum": 500000,
+        "min": 100000,
+        "max": 400000,
+        "avg": 250000.0
+    },
+    {
+        "category": "Gaming",
+        "sum": 12900039,
+        "min": 1,
+        "max": 1300000,
+        "avg": 218644.7288135593
+    },
+    {
+        "category": "Science & Technology",
+        "sum": 3100042,
+        "min": 10,
+        "max": 1100000,
+        "avg": 206669.46666666667
+    },
+    {
+        "category": "Music",
+        "sum": 24311224,
+        "min": 1,
+        "max": 2000000,
+        "avg": 200919.20661157026
+    },
+    {
+        "category": "Howto & Style",
+        "sum": 3400003,
+        "min": 1,
+        "max": 1300000,
+        "avg": 200000.17647058822
+    },
+    {
+        "category": "Travel & Events",
+        "sum": null,
+        "min": null,
+        "max": null,
+        "avg": null
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "frequency": 0.2422110552763819,
+        "count": 241,
+        "category": "Entertainment"
+    },
+    {
+        "frequency": 0.20301507537688443,
+        "count": 202,
+        "category": "Music"
+    },
+    {
+        "frequency": 0.13266331658291458,
+        "count": 132,
+        "category": "People & Blogs"
+    },
+    {
+        "frequency": 0.09447236180904522,
+        "count": 94,
+        "category": "Gaming"
+    },
+    {
+        "frequency": 0.06934673366834171,
+        "count": 69,
+        "category": "Comedy"
+    },
+    {
+        "frequency": 0.04623115577889447,
+        "count": 46,
+        "category": "Film & Animation"
+    },
+    {
+        "frequency": 0.04522613065326633,
+        "count": 45,
+        "category": "Education"
+    },
+    {
+        "frequency": 0.04020100502512563,
+        "count": 40,
+        "category": "Howto & Style"
+    },
+    {
+        "frequency": 0.02613065326633166,
+        "count": 26,
+        "category": "News & Politics"
+    },
+    {
+        "frequency": 0.017085427135678392,
+        "count": 17,
+        "category": "Science & Technology"
+    },
+    {
+        "frequency": 0.01306532663316583,
+        "count": 13,
+        "category": "Shows"
+    },
+    {
+        "frequency": 0.011055276381909548,
+        "count": 11,
+        "category": "Sports"
+    },
+    {
+        "frequency": 0.004020100502512563,
+        "count": 4,
+        "category": "Pets & Animals"
+    },
+    {
+        "frequency": 0.0020100502512562816,
+        "count": 2,
+        "category": "Trailers"
+    },
+    {
+        "frequency": 0.0020100502512562816,
+        "count": 2,
+        "category": "Nonprofits & Activism"
+    },
+    {
+        "frequency": 0.0020100502512562816,
+        "count": 2,
+        "category": "Movies"
+    },
+    {
+        "frequency": 0.0020100502512562816,
+        "count": 2,
+        "category": "Autos & Vehicles"
+    },
+    {
+        "frequency": 0.0010050251256281408,
+        "count": 1,
+        "category": "Travel & Events"
+    }
+]
