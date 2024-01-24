@@ -1,0 +1,68 @@
+[
+    {
+        "file_size": "1295916 КБ"
+    },
+    {
+        "file_in_memory_size": "302735 КБ"
+    },
+    {
+        "column_name": "Beer_Style",
+        "memory_abs": "9766 КБ",
+        "memory_per": "3.2261 %",
+        "dtype": "category"
+    },
+    {
+        "column_name": "SKU",
+        "memory_abs": "9766 КБ",
+        "memory_per": "3.2259 %",
+        "dtype": "category"
+    },
+    {
+        "column_name": "Fermentation_Time",
+        "memory_abs": "9765 КБ",
+        "memory_per": "3.2258 %",
+        "dtype": "uint8"
+    },
+    {
+        "column_name": "Batch_ID",
+        "memory_abs": "39062 КБ",
+        "memory_per": "12.9032 %",
+        "dtype": "uint32"
+    },
+    {
+        "column_name": "Temperature",
+        "memory_abs": "39062 КБ",
+        "memory_per": "12.9032 %",
+        "dtype": "float32"
+    },
+    {
+        "column_name": "pH_Level",
+        "memory_abs": "39062 КБ",
+        "memory_per": "12.9032 %",
+        "dtype": "float32"
+    },
+    {
+        "column_name": "Alcohol_Content",
+        "memory_abs": "39062 КБ",
+        "memory_per": "12.9032 %",
+        "dtype": "float32"
+    },
+    {
+        "column_name": "Quality_Score",
+        "memory_abs": "39062 КБ",
+        "memory_per": "12.9032 %",
+        "dtype": "float32"
+    },
+    {
+        "column_name": "Brewhouse_Efficiency",
+        "memory_abs": "39062 КБ",
+        "memory_per": "12.9032 %",
+        "dtype": "float32"
+    },
+    {
+        "column_name": "Loss_During_Bottling_Kegging",
+        "memory_abs": "39062 КБ",
+        "memory_per": "12.9032 %",
+        "dtype": "float32"
+    }
+]

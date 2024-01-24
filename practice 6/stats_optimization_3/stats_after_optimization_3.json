@@ -1,0 +1,194 @@
+[
+    {
+        "file_size": "578522 КБ"
+    },
+    {
+        "file_in_memory_size": "494986 КБ"
+    },
+    {
+        "column_name": "AIRLINE",
+        "memory_abs": "5684 КБ",
+        "memory_per": "1.1483 %",
+        "dtype": "category"
+    },
+    {
+        "column_name": "CANCELLATION_REASON",
+        "memory_abs": "5683 КБ",
+        "memory_per": "1.1481 %",
+        "dtype": "category"
+    },
+    {
+        "column_name": "MONTH",
+        "memory_abs": "5682 КБ",
+        "memory_per": "1.148 %",
+        "dtype": "uint8"
+    },
+    {
+        "column_name": "DAY",
+        "memory_abs": "5682 КБ",
+        "memory_per": "1.148 %",
+        "dtype": "uint8"
+    },
+    {
+        "column_name": "DAY_OF_WEEK",
+        "memory_abs": "5682 КБ",
+        "memory_per": "1.148 %",
+        "dtype": "uint8"
+    },
+    {
+        "column_name": "DIVERTED",
+        "memory_abs": "5682 КБ",
+        "memory_per": "1.148 %",
+        "dtype": "uint8"
+    },
+    {
+        "column_name": "CANCELLED",
+        "memory_abs": "5682 КБ",
+        "memory_per": "1.148 %",
+        "dtype": "uint8"
+    },
+    {
+        "column_name": "DEPARTURE_TIME",
+        "memory_abs": "22730 КБ",
+        "memory_per": "4.5922 %",
+        "dtype": "float32"
+    },
+    {
+        "column_name": "DEPARTURE_DELAY",
+        "memory_abs": "22730 КБ",
+        "memory_per": "4.5922 %",
+        "dtype": "float32"
+    },
+    {
+        "column_name": "TAXI_OUT",
+        "memory_abs": "22730 КБ",
+        "memory_per": "4.5922 %",
+        "dtype": "float32"
+    },
+    {
+        "column_name": "WHEELS_OFF",
+        "memory_abs": "22730 КБ",
+        "memory_per": "4.5922 %",
+        "dtype": "float32"
+    },
+    {
+        "column_name": "SCHEDULED_TIME",
+        "memory_abs": "22730 КБ",
+        "memory_per": "4.5922 %",
+        "dtype": "float32"
+    },
+    {
+        "column_name": "ELAPSED_TIME",
+        "memory_abs": "22730 КБ",
+        "memory_per": "4.5922 %",
+        "dtype": "float32"
+    },
+    {
+        "column_name": "AIR_TIME",
+        "memory_abs": "22730 КБ",
+        "memory_per": "4.5922 %",
+        "dtype": "float32"
+    },
+    {
+        "column_name": "WHEELS_ON",
+        "memory_abs": "22730 КБ",
+        "memory_per": "4.5922 %",
+        "dtype": "float32"
+    },
+    {
+        "column_name": "TAXI_IN",
+        "memory_abs": "22730 КБ",
+        "memory_per": "4.5922 %",
+        "dtype": "float32"
+    },
+    {
+        "column_name": "ARRIVAL_TIME",
+        "memory_abs": "22730 КБ",
+        "memory_per": "4.5922 %",
+        "dtype": "float32"
+    },
+    {
+        "column_name": "ARRIVAL_DELAY",
+        "memory_abs": "22730 КБ",
+        "memory_per": "4.5922 %",
+        "dtype": "float32"
+    },
+    {
+        "column_name": "AIR_SYSTEM_DELAY",
+        "memory_abs": "22730 КБ",
+        "memory_per": "4.5922 %",
+        "dtype": "float32"
+    },
+    {
+        "column_name": "SECURITY_DELAY",
+        "memory_abs": "22730 КБ",
+        "memory_per": "4.5922 %",
+        "dtype": "float32"
+    },
+    {
+        "column_name": "AIRLINE_DELAY",
+        "memory_abs": "22730 КБ",
+        "memory_per": "4.5922 %",
+        "dtype": "float32"
+    },
+    {
+        "column_name": "LATE_AIRCRAFT_DELAY",
+        "memory_abs": "22730 КБ",
+        "memory_per": "4.5922 %",
+        "dtype": "float32"
+    },
+    {
+        "column_name": "WEATHER_DELAY",
+        "memory_abs": "22730 КБ",
+        "memory_per": "4.5922 %",
+        "dtype": "float32"
+    },
+    {
+        "column_name": "TAIL_NUMBER",
+        "memory_abs": "11795 КБ",
+        "memory_per": "2.383 %",
+        "dtype": "category"
+    },
+    {
+        "column_name": "ORIGIN_AIRPORT",
+        "memory_abs": "11445 КБ",
+        "memory_per": "2.3123 %",
+        "dtype": "category"
+    },
+    {
+        "column_name": "DESTINATION_AIRPORT",
+        "memory_abs": "11445 КБ",
+        "memory_per": "2.3123 %",
+        "dtype": "category"
+    },
+    {
+        "column_name": "YEAR",
+        "memory_abs": "11365 КБ",
+        "memory_per": "2.2961 %",
+        "dtype": "uint16"
+    },
+    {
+        "column_name": "FLIGHT_NUMBER",
+        "memory_abs": "11365 КБ",
+        "memory_per": "2.2961 %",
+        "dtype": "uint16"
+    },
+    {
+        "column_name": "SCHEDULED_DEPARTURE",
+        "memory_abs": "11365 КБ",
+        "memory_per": "2.2961 %",
+        "dtype": "uint16"
+    },
+    {
+        "column_name": "DISTANCE",
+        "memory_abs": "11365 КБ",
+        "memory_per": "2.2961 %",
+        "dtype": "uint16"
+    },
+    {
+        "column_name": "SCHEDULED_ARRIVAL",
+        "memory_abs": "11365 КБ",
+        "memory_per": "2.2961 %",
+        "dtype": "uint16"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "file_size": "253564 КБ"
+    },
+    {
+        "file_in_memory_size": "421645 КБ"
+    },
+    {
+        "column_name": "schedule_name",
+        "memory_abs": "43725 КБ",
+        "memory_per": "10.3702 %",
+        "dtype": "object"
+    },
+    {
+        "column_name": "accept_handicapped",
+        "memory_abs": "413 КБ",
+        "memory_per": "0.098 %",
+        "dtype": "bool"
+    },
+    {
+        "column_name": "accept_kids",
+        "memory_abs": "413 КБ",
+        "memory_per": "0.098 %",
+        "dtype": "bool"
+    },
+    {
+        "column_name": "allow_messages",
+        "memory_abs": "413 КБ",
+        "memory_per": "0.098 %",
+        "dtype": "bool"
+    },
+    {
+        "column_name": "id",
+        "memory_abs": "3304 КБ",
+        "memory_per": "0.7837 %",
+        "dtype": "int64"
+    },
+    {
+        "column_name": "employer_id",
+        "memory_abs": "3304 КБ",
+        "memory_per": "0.7837 %",
+        "dtype": "int64"
+    },
+    {
+        "column_name": "prof_classes_found",
+        "memory_abs": "27506 КБ",
+        "memory_per": "6.5235 %",
+        "dtype": "object"
+    },
+    {
+        "column_name": "schedule_id",
+        "memory_abs": "26402 КБ",
+        "memory_per": "6.2617 %",
+        "dtype": "object"
+    },
+    {
+        "column_name": "specializations",
+        "memory_abs": "213601 КБ",
+        "memory_per": "50.6591 %",
+        "dtype": "object"
+    },
+    {
+        "column_name": "key_skills",
+        "memory_abs": "102561 КБ",
+        "memory_per": "24.3241 %",
+        "dtype": "object"
+    }
+]

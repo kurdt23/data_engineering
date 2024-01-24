@@ -1,0 +1,68 @@
+[
+    {
+        "file_size": "10766 КБ"
+    },
+    {
+        "file_in_memory_size": "21936 КБ"
+    },
+    {
+        "column_name": "full_name",
+        "memory_abs": "9796 КБ",
+        "memory_per": "44.6567 %",
+        "dtype": "object"
+    },
+    {
+        "column_name": "id",
+        "memory_abs": "8373 КБ",
+        "memory_per": "38.1722 %",
+        "dtype": "object"
+    },
+    {
+        "column_name": "spkid",
+        "memory_abs": "515 КБ",
+        "memory_per": "2.3491 %",
+        "dtype": "uint32"
+    },
+    {
+        "column_name": "H",
+        "memory_abs": "515 КБ",
+        "memory_per": "2.3491 %",
+        "dtype": "float32"
+    },
+    {
+        "column_name": "diameter",
+        "memory_abs": "515 КБ",
+        "memory_per": "2.3491 %",
+        "dtype": "float32"
+    },
+    {
+        "column_name": "diameter_sigma",
+        "memory_abs": "515 КБ",
+        "memory_per": "2.3491 %",
+        "dtype": "float32"
+    },
+    {
+        "column_name": "orbit_id",
+        "memory_abs": "288 КБ",
+        "memory_per": "1.3137 %",
+        "dtype": "category"
+    },
+    {
+        "column_name": "epoch_mjd",
+        "memory_abs": "257 КБ",
+        "memory_per": "1.1745 %",
+        "dtype": "uint16"
+    },
+    {
+        "column_name": "equinox",
+        "memory_abs": "128 КБ",
+        "memory_per": "0.588 %",
+        "dtype": "category"
+    },
+    {
+        "column_name": "epoch_cal",
+        "memory_abs": "1030 КБ",
+        "memory_per": "4.6981 %",
+        "dtype": "float64"
+    }
+]

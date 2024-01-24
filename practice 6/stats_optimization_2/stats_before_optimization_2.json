@@ -1,0 +1,68 @@
+[
+    {
+        "file_size": "6851 КБ"
+    },
+    {
+        "file_in_memory_size": "30585 КБ"
+    },
+    {
+        "column_name": "firstSeen",
+        "memory_abs": "8397 КБ",
+        "memory_per": "27.4555 %",
+        "dtype": "object"
+    },
+    {
+        "column_name": "brandName",
+        "memory_abs": "8230 КБ",
+        "memory_per": "26.9105 %",
+        "dtype": "object"
+    },
+    {
+        "column_name": "modelName",
+        "memory_abs": "7815 КБ",
+        "memory_per": "25.5542 %",
+        "dtype": "object"
+    },
+    {
+        "column_name": "isNew",
+        "memory_abs": "125 КБ",
+        "memory_per": "0.4098 %",
+        "dtype": "bool"
+    },
+    {
+        "column_name": "askPrice",
+        "memory_abs": "1002 КБ",
+        "memory_per": "3.2783 %",
+        "dtype": "int64"
+    },
+    {
+        "column_name": "vf_Seats",
+        "memory_abs": "1002 КБ",
+        "memory_per": "3.2783 %",
+        "dtype": "int64"
+    },
+    {
+        "column_name": "vf_WheelBaseShort",
+        "memory_abs": "1002 КБ",
+        "memory_per": "3.2783 %",
+        "dtype": "float64"
+    },
+    {
+        "column_name": "vf_WheelSizeRear",
+        "memory_abs": "1002 КБ",
+        "memory_per": "3.2783 %",
+        "dtype": "int64"
+    },
+    {
+        "column_name": "vf_Wheels",
+        "memory_abs": "1002 КБ",
+        "memory_per": "3.2783 %",
+        "dtype": "int64"
+    },
+    {
+        "column_name": "vf_Windows",
+        "memory_abs": "1002 КБ",
+        "memory_per": "3.2783 %",
+        "dtype": "int64"
+    }
+]
