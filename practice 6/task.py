@@ -1,3 +1,4 @@
+# https://drive.google.com/drive/folders/1nTiKWOiUIQF05BGbkC8Ci1BzD3dCalDS?usp=sharing входные данные и выходные df.csv
 import pandas as pd
 import os
 from data_json import save_in_json, create_dir
